@@ -4,3 +4,4 @@
 // sdcsdcjb
 // dsdcsd */
 console.log('GAY');
+//**jajajajaj gay x2 */
